@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+}
+
+
+.container input{
+    border: transparent;
+    border-radius:8px ;
+    padding: 8px 8px;
+}
+
+.container button{
+    background-color: #FFCA40;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 4px;
+}
